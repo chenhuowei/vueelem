@@ -1,2 +1,2 @@
 # vueelem
-vue n element-ui
+vue & element-ui
